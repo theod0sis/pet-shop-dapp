@@ -3,6 +3,7 @@ This is a tutorial project from @www.trufflesuite.com box [tutorial](https://www
 The purpose of this project is to be more familiarize with Ethereum dapp development.
 
 The tutorial is covering the following topics:
+
     1.Setting up the development environment
     2.Creating a Truffle project using a Truffle Box
     3.Writing the smart contract
