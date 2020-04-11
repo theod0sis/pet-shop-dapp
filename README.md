@@ -1,4 +1,4 @@
-# Pet Shop Decentralized APP ( AKA DAPP)
+# Pet Shop Decentralized APP ( aka DAPP)
 This is a tutorial project from @www.trufflesuite.com box [tutorial](https://www.trufflesuite.com/tutorials/pet-shop) projects.
 The purpose of this project is to be more familiarize with Ethereum dapp development.
 
@@ -22,3 +22,12 @@ As an initial proof of concept, Pete wants to see a dapp which associates an Eth
     - Ganache (private blockachain for Ethereum developmen)
     - npm
     - js  
+    
+### Run pet-shop dapp:
+    npm install
+    truffle compile
+    truffle migrate
+    npm run dev
+
+To explore the pet-shop dapp you have to running a GanacheUI and Metamask plugin configured
+to connect at the locale blockchain created by Ganache.  
