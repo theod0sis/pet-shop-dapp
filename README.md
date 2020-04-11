@@ -18,7 +18,7 @@ The store has space for 16 pets at a given time, and they already have a databas
 As an initial proof of concept, Pete wants to see a dapp which associates an Ethereum address
  with a pet to be adopted.
  
-## Technology used for this project:
+### Technology used for this project:
     - Solidity (language for implementing smart contracts)
     - Ganache (private blockachain for Ethereum developmen)
     - npm
