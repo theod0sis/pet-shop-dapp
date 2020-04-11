@@ -13,6 +13,7 @@
   "author": "theodosis aggelis",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.5.4",
+    "minimist": ">=1.2.3"
   }
 }
